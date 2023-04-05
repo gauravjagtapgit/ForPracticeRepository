@@ -19,5 +19,9 @@ public class utilClass {
 		wait.until(ExpectedConditions.visibilityOf(element));
 	}
 	
+	public static void forGitAddMethod() {
+		System.out.println("for git perpous method");
+	}
+	
 
 }
