@@ -70,5 +70,8 @@ public class Base {
 		
 		driver = null;
 	}
+	public void github() {
+		System.out.println("add extra in branch2");
+	}
 
 }
