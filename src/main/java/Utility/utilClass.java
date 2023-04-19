@@ -18,6 +18,9 @@ public class utilClass {
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 		wait.until(ExpectedConditions.visibilityOf(element));
 	}
-	
+	 
+	public static void gitAddForBranch() {
+		System.out.println("this method for branch");
+	}
 
 }
