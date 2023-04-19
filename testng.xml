@@ -5,7 +5,8 @@
   <parameter name="browser" value="firefox"></parameter>
     <classes>
       <class name="TestClass.UserCanAddProductAddToCart"/>
-       <class name="TestClass.UserCanGetLowerPriceProduct"/>
+       <class name="TestClass.UserCanGetLowerPriceProduct 
+       "/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
